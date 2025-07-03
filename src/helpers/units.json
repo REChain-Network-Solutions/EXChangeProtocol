@@ -1,0 +1,21 @@
+[
+  {
+    "symbol": "GREChain",
+    "short": "GB",
+    "decimals": 9
+  },
+  {
+    "symbol": "MREChain",
+    "short": "MB",
+    "decimals": 6
+  },
+  {
+    "symbol": "KREChain",
+    "short": "KB",
+    "decimals": 3
+  },
+  {
+    "symbol": "REChain",
+    "decimals": 0
+  }
+]

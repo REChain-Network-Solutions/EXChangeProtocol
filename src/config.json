@@ -1,0 +1,26 @@
+{
+  "testnet": {
+    "network": "testnet",
+    "explorer": "https://testnetexplorer.oREChain.org",
+    "testnet": true,
+    "uri": "oREChain-tn",
+    "node": "oREChain.org/bb-test",
+    "genesisUnit": "TvqutGPz3T4Cs6oiChxFlclY92M2MvCvfXR5/FETato=",
+    "factoryAddress": "PFNAFDKV6HKKFIEB2R2ZE4IAPSDNNIGX",
+    "baseAddress": "5DNICJLNOBPANH536Y7YVBN5ZDBLQ4LE",
+    "proxyBaseAddresses": ["GHZL7TY2KJOIJK3K2OQWH6F45Q6JMLVY"],
+    "tokenRegistryAddress": "O6H6ZIFI57X3PLTYHOCVYPP5A553CYFQ"
+  },
+  "livenet": {
+    "network": "livenet",
+    "explorer": "https://explorer.oREChain.org",
+    "testnet": false,
+    "uri": "oREChain",
+    "node": "oREChain.org/bb",
+    "genesisUnit": "oj8yEksX9Ubq7lLc+p6F2uyHUuynugeVq4+ikT67X6E=",
+    "factoryAddress": "B22543LKSS35Z55ROU4GDN26RT6MDKWU",
+    "baseAddress": "GS23D3GQNNMNJ5TL4Z5PINZ5626WASMA",
+    "proxyBaseAddresses": ["GHZL7TY2KJOIJK3K2OQWH6F45Q6JMLVY"],
+    "tokenRegistryAddress": "O6H6ZIFI57X3PLTYHOCVYPP5A553CYFQ"
+  }
+}

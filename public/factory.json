@@ -1,0 +1,9 @@
+{
+  "version": "1.0",
+  "description": "OREChain exchange protocol",
+  "homepage_url": "https://REChainEXChange.io",
+  "source_url": "https://github.com/bonustrack/REChainEXChange.io",
+  "field_descriptions": {
+    "create": "Create a pool"
+  }
+}
