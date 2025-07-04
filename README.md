@@ -1,94 +1,65 @@
-# 🔄 EXChangeProtocol
+# EXChangeProtocol 🪙
 
-A secure, decentralized protocol for asset exchange — built for the REChain Network Solutions ecosystem.  
-EXChangeProtocol enables cross-chain, trustless, and efficient decentralized trading of digital assets, tokens, and NFTs. 🪙✨
+Welcome to **EXChangeProtocol**, a core component of the REChain Network Solutions ecosystem, designed to enable decentralized exchange mechanisms for digital assets, perpetual contracts, and synthetic derivatives.
 
----
+## 🚀 Features
 
-## 🚀 Key Highlights
+- 🔁 Decentralized swap protocol
+- 🧠 Modular design for integration with prediction and perpetual markets
+- ⛓ Built for cross-chain and layer-2 compatibility
+- 📈 Oracle-ready with support for custom data feeds
+- 💡 Open for DAO governance mechanisms
 
-- 🧱 **Modular Smart Contract Architecture**
-- 🌉 **Cross-chain Bridge Integration**
-- 🔐 **Privacy-First Order Matching**
-- 📈 **Fee Engine & DAO Governance**
-- 📲 **Ready for Katya OS and REChain dApps**
+## 📦 Repository Structure
 
----
+```
+EXChangeProtocol/
+├── contracts/            # Solidity smart contracts
+├── scripts/              # Deployment & testing scripts
+├── tests/                # Unit and integration tests
+├── docs/                 # Documentation and specs
+└── README.md             # Project overview
+```
 
-## 📦 Installation
+## 🛠 Installation
 
-To use or build EXChangeProtocol locally:
+Clone the repository:
 
 ```bash
-# Clone the repository
 git clone https://github.com/REChain-Network-Solutions/EXChangeProtocol.git
 cd EXChangeProtocol
+```
 
-# Install dependencies (Node/Hardhat environment)
+Install dependencies:
+
+```bash
 npm install
+# or
+yarn
+```
 
-⚙️ Usage
-📤 Deploy Contracts
+Compile contracts:
 
+```bash
 npx hardhat compile
-npx hardhat run scripts/deploy.js --network goerli
+```
 
-🧪 Run Tests
+Run tests:
 
+```bash
 npx hardhat test
+```
 
-📁 Project Structure
+## 🧪 Testing & Development
 
-EXChangeProtocol/
-├── contracts/          # Core smart contracts (Solidity)
-│   ├── core/           # Exchange logic
-│   ├── interfaces/     # Interfaces for modules
-│   └── lib/            # Utility and helper libraries
-├── scripts/            # Deployment and setup scripts
-├── test/               # Tests and mock environments
-├── docs/               # Extended documentation and specs
-├── README.md
-├── WIKI.md
-└── LICENSE
+Ensure you're running a local Ethereum environment (e.g. Hardhat or Ganache) and set up your `.env` accordingly.
 
-🧩 Integrations
-✅ REChain Bridge – for secure cross-chain swaps
+```env
+PRIVATE_KEY=your_private_key
+INFURA_API_KEY=your_infura_key
+```
 
-✅ Katya OS – mobile-ready compatibility
+## 📄 License
 
-✅ DAOpeople – built-in governance voting
-
-✅ REChain Wallet – gasless & signature-based flows
-
-
-📖 Documentation
-Please see WIKI.md or the /docs/ directory for:
-
-Full architecture overview
-
-Deployment guides
-
-Governance process
-
-Security audits (planned)
-
-🤝 Contribution
-We welcome contributors!
-
-Fork this repo
-
-Create a feature branch (git checkout -b feature/something)
-
-Push changes and open a PR
-
-Please follow our Code of Conduct and write clear, tested code.
-
-📜 License
-This project is licensed under the MIT License. See LICENSE for more information.
-
-💬 Community & Support
-🌐 rechain.network
-
-🧠 DAOpeople Forum: DAO Governance
-
-Built with ❤️ by the REChain Network Solutions core team.
+MIT © REChain Network Solutions  
+See [`LICENSE`](LICENSE) for details.
