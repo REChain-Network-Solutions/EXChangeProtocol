@@ -45,7 +45,7 @@
   },
   "devDependencies": {
     "@types/node": "^13.1.4",
-    "@vue/cli-plugin-router": "^4.1.0",
+    "@vue/cli-plugin-router": "^5.0.8",
     "@vue/cli-plugin-vuex": "^4.1.0",
     "@vue/eslint-config-prettier": "^5.0.0",
     "@vue/eslint-config-typescript": "^4.0.0",
