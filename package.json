@@ -54,7 +54,7 @@
     "eslint-plugin-vue": "^10.5.1",
     "node-sass": "^9.0.0",
     "prettier": "^3.6.2",
-    "sass-loader": "^16.0.5",
+    "sass-loader": "^16.0.6",
     "vue-template-compiler": "^2.7.16"
   },
   "repository": "bonustrack/REChainEXChange.io",
