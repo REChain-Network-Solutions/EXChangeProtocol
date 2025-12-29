@@ -38,7 +38,7 @@
     "vue": "^3.5.25",
     "vue-cli-plugin-express": "^1.0.2",
     "vue-i18n": "^11.2.2",
-    "vue-router": "^4.6.3",
+    "vue-router": "^4.6.4",
     "vuex": "^4.1.0",
     "wif": "^5.0.0",
     "ws": "^8.18.3"
