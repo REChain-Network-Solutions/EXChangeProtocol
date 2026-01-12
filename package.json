@@ -41,7 +41,7 @@
     "vue-router": "^4.6.3",
     "vuex": "^4.1.0",
     "wif": "^5.0.0",
-    "ws": "^8.18.3"
+    "ws": "^8.19.0"
   },
   "devDependencies": {
     "@types/node": "^25.0.6",
