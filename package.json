@@ -35,7 +35,7 @@
     "serve-static": "^2.2.1",
     "streamifier": "^0.1.1",
     "typescript": "^5.9.3",
-    "vue": "^3.5.28",
+    "vue": "^3.5.29",
     "vue-cli-plugin-express": "^1.0.2",
     "vue-i18n": "^11.2.8",
     "vue-router": "^5.0.3",
