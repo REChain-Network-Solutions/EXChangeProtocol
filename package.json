@@ -37,14 +37,14 @@
     "typescript": "^5.9.3",
     "vue": "^3.5.29",
     "vue-cli-plugin-express": "^1.0.2",
-    "vue-i18n": "^11.2.8",
+    "vue-i18n": "^11.3.0",
     "vue-router": "^5.0.3",
     "vuex": "^4.1.0",
     "wif": "^5.0.0",
     "ws": "^8.19.0"
   },
   "devDependencies": {
-    "@types/node": "^25.3.3",
+    "@types/node": "^25.3.5",
     "@vue/cli-plugin-router": "^5.0.9",
     "@vue/cli-plugin-vuex": "^4.1.0",
     "@vue/eslint-config-prettier": "^10.2.0",
