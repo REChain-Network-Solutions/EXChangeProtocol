@@ -27,7 +27,7 @@
     "frameguard": "^4.0.0",
     "jsonwebtoken": "^9.0.3",
     "kREChain": "0.0.6",
-    "lodash": "^4.17.23",
+    "lodash": "^4.18.1",
     "oREChain": "^0.1.7",
     "pretty-ms": "^9.3.0",
     "primer-support": "^5.0.0",
